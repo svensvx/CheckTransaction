@@ -4,6 +4,10 @@ This is a python tool for getting information about a transaction from your own 
 The advantage compared to other Blockexploerer tools is the ease of use. There is no setup process.
 
 ## How to use
+Navigate into the folde and run
+```sh
+python3 checktransaction.py
+```
 You input a Transaction-ID and the output displays:
 - Transaction unconfirmed or confirmed (amount of confirmations)
 - Input TxIDs and amounts
