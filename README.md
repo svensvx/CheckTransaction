@@ -1,7 +1,7 @@
 # CheckTransaction
 This is a python tool for getting information about a transaction from your own full node. 
 
-The advantage compared to other Blockexploerer tools is the ease of use. There is no setup process.
+The advantage compared to other Blockexplorer tools is the ease of use. There is no setup process.
 
 ## How to use
 Navigate into the folde and run
