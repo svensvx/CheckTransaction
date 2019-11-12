@@ -24,3 +24,6 @@ bitcoin-cli getrawtransaction
 ```
  
 This is really inefficient (especially when searching for addresses), but has the above mentioned advantage of no setup.
+
+## To-DO
+- [ ] Add SSH support
